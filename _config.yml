@@ -1,0 +1,28 @@
+name: Rise and Shine Films
+favicon: null
+layout_spectrum: 0.6928390963003039
+typography_spectrum: 0.1373602959793061
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.16550223412923515
+  lightness: 0.1618107024114579
+  saturation: 0.694277003640309
+  rhythmicContrast: 0.5303995136637241
+purpose: []
